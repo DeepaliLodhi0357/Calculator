@@ -1,0 +1,49 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#cal {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+#second,
+#third,
+#four,
+#fiv button {
+    margin: 10px;
+}
+
+#second button {
+
+    padding: 1.8rem;
+}
+
+#third button {
+
+    padding: 1.8rem;
+}
+
+#four button {
+
+    padding: 1.8rem;
+}
+
+#five button {
+
+    padding: 1.8rem;
+}
+#first button {
+
+    padding: 1.4rem;
+}
+input{
+    
+    padding: 1.2rem;
+    padding-top: 1.4rem;
+}
+#main{
+    background-color: transparent;
+}
